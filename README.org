@@ -5,3 +5,16 @@ This is for shared editing of content useful for the group.
 ** Newsletters
 
 [[http:https://haskellweekly.news/][https://haskellweekly.news/]]
+
+
+** Installing Haskell
+
+add content here
+
+** Documentation and tutorials
+
+add content here
+
+** Interesting links
+
+add content here
