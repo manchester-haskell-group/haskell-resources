@@ -1,7 +1,7 @@
 * Haskell Resources
 
 This is for shared editing of content useful for the group.
-It was inspired by [[http:https://github.com/bigos/elm-manchester-resources][Elm Manchester meetup]] page.
+It was inspired by [[https://github.com/michaeljones/elm-manchester-resources][Elm Manchester meetup]] page.
 
 ** Newsletters
 
