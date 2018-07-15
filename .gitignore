@@ -1,1 +1,4 @@
 # edit as neccesary
+
+# ignore html files, we use md or org files here
+*.html
