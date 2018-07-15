@@ -10,7 +10,11 @@ It was inspired by [[https://github.com/michaeljones/elm-manchester-resources][E
 
 ** Installing Haskell
 
-add content here
+Go to [[https://haskell-lang.org/get-started][haskell-lang.org - Get Started]]
+and click on the icon corresponding to your OS.
+Depending on your OS, that let you download a binary installer or run a script
+that will install [[https://docs.haskellstack.org/en/stable/README/][Stack]]
+tool and let you get started with your first Haskell project.
 
 ** Documentation and tutorials
 
