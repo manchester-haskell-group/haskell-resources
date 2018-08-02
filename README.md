@@ -19,6 +19,8 @@ tool and let you get started with your first Haskell project.
 * [Find a GHC Version Users Guide](https://downloads.haskell.org/~ghc)
 * [GHC 8.4.3 Users Guide](https://downloads.haskell.org/~ghc/8.4.3/docs/html/users_guide/index.html)
 
-## Interesting links
+## Great learning guides
+* [haskell.org documentation](https://www.haskell.org/documentation)
 
-GHC Developer Docs: https://ghc.haskell.org/trac/ghc 
+## Interesting links
+* GHC Developer Docs: https://ghc.haskell.org/trac/ghc 
