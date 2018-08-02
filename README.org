@@ -22,4 +22,4 @@ add content here
 
 ** Interesting links
 
-add content here
+GHC Developer Docs: https://ghc.haskell.org/trac/ghc 
