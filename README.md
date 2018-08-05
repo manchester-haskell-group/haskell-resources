@@ -4,7 +4,7 @@ This is for shared editing of content useful for the group.
 It was inspired by [Elm Manchester meetup](https://github.com/michaeljones/elm-manchester-resources) page.
 
 ## How To...
-* Start a discussion - Click into Teams > Members
+* Start a discussion - Click into Teams > [Members](https://github.com/orgs/manchester-haskell-group/teams/members)
 
 * Find a task - Click into a Repo > Projects > Select a Project Name > Task Board will appear
 
