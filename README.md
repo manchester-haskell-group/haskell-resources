@@ -25,7 +25,7 @@ tool and let you get started with your first Haskell project.
 * [haskell.org documentation](https://www.haskell.org/documentation)
 
 ### Interesting links
-* GHC Developer Docs: https://ghc.haskell.org/trac/ghc 
+* [GHC Developer Docs](https://ghc.haskell.org/trac/ghc)
 
 ### Newsletters
-[Haskell Weekly News](https://haskellweekly.news/)
+* [Haskell Weekly News](https://haskellweekly.news/)
