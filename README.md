@@ -7,7 +7,7 @@ It was inspired by [Elm Manchester meetup](https://github.com/michaeljones/elm-m
 [Haskell Weekly News](https://haskellweekly.news/)
 
 ## Installing Haskell
-Go to [haskell-lang.org - Get Started]https://github.com/michaeljones/elm-manchester-resources(https://haskell-lang.org/get-started)
+Go to [haskell-lang.org - Get Started](https://haskell-lang.org/get-started)
 and click on the icon corresponding to your OS.
 Depending on your OS, that let you download a binary installer or run a script
 that will install [Stack](https://docs.haskellstack.org/en/stable/README/)
