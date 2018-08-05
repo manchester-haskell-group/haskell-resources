@@ -4,11 +4,9 @@ This is for shared editing of content useful for the group.
 It was inspired by [Elm Manchester meetup](https://github.com/michaeljones/elm-manchester-resources) page.
 
 ## How To...
-* Start a discussion
-Click into Teams > Members
+* Start a discussion - Click into Teams > Members
 
-* Find a task
-Click into a Repo > Projects > Select a Project Name > Task Board will appear
+* Find a task - Click into a Repo > Projects > Select a Project Name > Task Board will appear
 
 ## Installing Haskell
 Go to [haskell-lang.org - Get Started](https://haskell-lang.org/get-started)
